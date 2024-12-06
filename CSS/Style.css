@@ -1,0 +1,49 @@
+
+/*Alterações no cabeçalho*/
+
+#header{
+    padding: 16px;
+    text-align: center;
+}   
+
+/*Fomatação no menu*/
+
+#menu{
+    text-align: center;
+}
+
+/*Formatação na mesnagem do "início"*/
+
+#abertura{
+    text-align: center;
+}
+
+/*Formatação dos títulos*/
+
+h3{
+    text-align: justify;
+    padding: 20px;
+}
+
+/*Fomatação no corpo da página*/
+
+body{
+font-size: 18px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-color:#ecca6c;
+}
+
+/*Fomatação dos links*/
+
+a{
+    text-decoration: none;
+    padding: 6px;
+}
+
+a:link, a:visited{
+    color:blue;
+}
+
+a:hover{
+    text-decoration: underline;
+}
